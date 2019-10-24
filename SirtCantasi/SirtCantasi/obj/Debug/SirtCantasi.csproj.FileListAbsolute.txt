@@ -1,0 +1,10 @@
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\bin\Debug\SirtCantasi.exe.config
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\bin\Debug\SirtCantasi.exe
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\bin\Debug\SirtCantasi.pdb
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.csprojAssemblyReference.cache
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.Form1.resources
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.Properties.Resources.resources
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.csproj.GenerateResource.cache
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.csproj.CoreCompileInputs.cache
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.exe
+C:\Users\ns\source\repos\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.pdb
